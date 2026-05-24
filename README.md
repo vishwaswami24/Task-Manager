@@ -7,7 +7,8 @@
 
 A modern, responsive web application for managing tasks and comments built with React and Flask.
 
-<img width="1900" height="925" alt="Image" src="https://github.com/user-attachments/assets/f00d0ad4-6b46-4f45-bd88-d0b8326428f3" />
+<img width="1907" height="928" alt="image" src="https://github.com/user-attachments/assets/b922c6de-190e-460f-9dd4-ff9aae422c47" />
+
 
 ## 🚀 Quick Start
 
